@@ -19,5 +19,4 @@
   <img align="center" alt="Arlyson-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Arlyson-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
-  
- ![Snake animation](https://github.com/ArlysonMathias/ArlysonMathias/blob/output/github-contribution-grid-snake.svg)
+
