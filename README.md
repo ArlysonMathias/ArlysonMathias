@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Passionate student of Full Stack programming and development
+Passionate for Full Stack programming and development
 
 I’m currently learning ReactJs, PrismaJs, Nestjs.
 
