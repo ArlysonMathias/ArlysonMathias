@@ -2,7 +2,6 @@
 
 Passionate for Full Stack programming and development
 
-I’m currently learning ReactJs, PrismaJs, Nestjs.
 
 
 ## 🌐 Socials:
